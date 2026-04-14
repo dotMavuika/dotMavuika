@@ -5,9 +5,10 @@ Backend • Infrastructure • Self-Hosting • Reverse Engineering
 ---
 
 ## 👻 About Me
-
-Developer focused on backend systems, infrastructure and low-level experimentation.
-I enjoy building self-hosted services, reverse engineering network flows and working close to the system.
+I build backend systems and self-hosted infrastructure from scratch.
+I run my own mail server, configure everything by hand, and enjoy
+understanding how things work under the hood — from network flows
+to system internals. Half the fun is in the setup.
 
 ---
 
