@@ -7,7 +7,8 @@ and configure everything from scratch because that's half the fun.
 
 ## what I work with
 `Laravel` `Flutter` `TypeScript` `JavaScript` `Python` `C++`  
-`Arch Linux` `Qtile` `Vim` `Postfix` `Dovecot` `VPS`
+`Arch Linux` `Qtile` `Vim` `Postfix` `Dovecot` `VPS` `OpenBSD` 
+`FreeBSD` `Microsoft Azure`
 
 ## projects
 - **youtube-playlist-extractor** — extracts and displays public playlists
