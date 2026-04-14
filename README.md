@@ -12,7 +12,7 @@ and configure everything from scratch because that's half the fun.
 ## projects
 - **youtube-playlist-extractor** — extracts and displays public playlists
   from any YouTube channel using the YouTube Data API v3
-- **mobile app** — Flutter app with Laravel backend
+- **mobile app** — Academic app with Flutter
 
 ## contact
 📮 reo@reomattsolutions.org
