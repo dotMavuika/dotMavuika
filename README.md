@@ -4,7 +4,7 @@ Backend • Infrastructure • Self-Hosting • Reverse Engineering
 
 ---
 
-## 🧠 About Me
+## 👻 About Me
 
 Developer focused on backend systems, infrastructure and low-level experimentation.
 I enjoy building self-hosted services, reverse engineering network flows and working close to the system.
@@ -53,10 +53,3 @@ I enjoy building self-hosted services, reverse engineering network flows and wor
 * Backend architecture
 * Low-level experimentation
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dotMavuika\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotMavuika\&layout=compact\&theme=tokyonight)
